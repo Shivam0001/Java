@@ -1,2 +1,2 @@
 # Java
-JAVA project sem V mini project
+JAVA sem V mini project

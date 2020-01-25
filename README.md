@@ -20,3 +20,8 @@ And user can also login to check the bill and pay the bill and can also provide 
 
 # img Folder will look like
 ![alt text](https://github.com/Shivam0001/Java/blob/master/img/Screenshot%20(160).png)
+
+# Screenshots of Project
+![alt text](https://github.com/Shivam0001/Java/blob/master/img/Screenshot%20(162).png)  
+  
+![alt text](https://github.com/Shivam0001/Java/blob/master/img/Screenshot%20(163).png)

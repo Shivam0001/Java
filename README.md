@@ -2,11 +2,11 @@
 JAVA sem V mini project
 
 # PreRequisites
-1.Make sure you have downloaded the Eclipse Enterprise Edition.
+1.Make sure you have downloaded the Eclipse Enterprise Edition.  
 2.Download WAMP or XAMPP.
 
 # How to run Project
-1.Clone or download the repository on your local machine.
+1.Clone or download the repository on your local machine.  
 2.Import the sql file into Database.
 3.Keep all the files in same folder.
 4.Create a new java project.
